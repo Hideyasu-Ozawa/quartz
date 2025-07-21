@@ -267,7 +267,6 @@ export const og: SocialImageOptions["Component"] = (
         height: "100%",
         width: "100%",
         // backgroundImage: `url("https://${cfg.baseUrl}/static/og-image.jpeg")`,
-
         backgroundSize: "100% 100%",
       }}
     >
